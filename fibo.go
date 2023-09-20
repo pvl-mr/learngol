@@ -1,7 +1,7 @@
 package learngol
 
 // 1, 1, 2, 3, 5, 8, 13, 21, 34, 55,
-func fibonacci(a int) int {
+func Fibonacci(a int) int {
 	x1 := 1
 	x2 := 1
 	if a == 1 || a == 2 {
